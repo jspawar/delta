@@ -15,6 +15,10 @@
 
 ## Get Started
 
+<!--
+changed something
+-->
+
 [Install it](https://dandavison.github.io/delta/installation.html) (the package is called "git-delta" in most package managers, but the executable is just `delta`) and add this to your `~/.gitconfig`:
 
 ```gitconfig
